@@ -1,0 +1,12 @@
+#parent__div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.content__section{
+ 
+}
+
+.dog__section{
+    height: 40px;
+}
